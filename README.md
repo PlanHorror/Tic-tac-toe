@@ -12,7 +12,7 @@ You need **SDL2**, **SDL_image**, **SDL_ttf** library to compile this program. I
 # Usage
 - In Window run main.cpp on project source
 - If another operating system
-  """
+  ```
   $make
   $./main
-  """
+  ```

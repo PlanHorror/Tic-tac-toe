@@ -2,7 +2,7 @@
 The basic Tic-tac-toe game with SDL2 and C++ but at the moment there are many unfinished features.
 # Note and issues
 - Only **PvP function** active. PvE function will be developed soon.
-- There is **no algorithms** for 3x3 map now, you can play at this map.
+- There is **no algorithms** for 3x3 map now, you can't play at this map.
 - The back button not working right now.
 - The function for reponsive screen only active on Window operating system. So when you use another operating system please change variable **SCREEN_WIDTH** and **SCREEN_HEIGHT**.
 - Config of this folder give you able to run without **Makefile** so when you change something in code just save then run main.cpp
